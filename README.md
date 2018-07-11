@@ -1,2 +1,2 @@
 # ObserverDesignPattern
-Observable notify data to observers. When object state change, observable notify the status to listener.
+The observer pattern in which an object, called the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods.
